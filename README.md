@@ -1,7 +1,3 @@
-Here's a detailed README file for your "Facial Expression Recognition Using CNN" project:
-
----
-
 # Facial Expression Recognition Using CNN  
 
 This project uses Convolutional Neural Networks (CNNs) to classify human facial expressions into different categories, such as happy, sad, angry, surprise, and neutral. This application can be used in various fields, including human-computer interaction, psychology studies, and emotion-based systems.
