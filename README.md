@@ -130,5 +130,3 @@ This project is licensed under the MIT License.
 - Thanks to the open-source community for providing valuable tools and libraries.  
 
 ---
-
-This README gives a comprehensive overview of your project. Let me know if there are any specific details you'd like to adjust or add!
